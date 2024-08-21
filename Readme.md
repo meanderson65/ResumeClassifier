@@ -21,23 +21,23 @@ The model analyzes text data, including job descriptions, skills, education, and
 
 The project is organized into the following steps:
 
-1. **Data Wrangling**: Handling 363 resumes and placing their data into a `.csv` file.
-2. **Import Libraries**: Includes libraries for shallow learning (scikit-learn) and deep learning (TensorFlow).
-3. **Load Data**: Loading the `.csv` file into the project.
-4. **Exploratory Data Analysis (EDA)**: Understanding the distribution and structure of the data.
-5. **Test and Train Split**: Dividing the dataset into training and testing sets.
-6. **Pre-Processing**: Cleaning and preparing the data for modeling.
-7. **Vectorization**: Converting text data into numerical format using `TfidfVectorizer`.
-8. **Dimensionality Reduction**:
+0. **Data Wrangling**: Handling 363 resumes and placing their data into a `.csv` file.
+1. **Import Libraries**: Includes libraries for shallow learning (scikit-learn) and deep learning (TensorFlow).
+2. **Load Data**: Loading the `.csv` file into the project.
+3. **Exploratory Data Analysis (EDA)**: Understanding the distribution and structure of the data.
+4. **Test and Train Split**: Dividing the dataset into training and testing sets.
+5. **Pre-Processing**: Cleaning and preparing the data for modeling.
+6. **Vectorization**: Converting text data into numerical format using `TfidfVectorizer`.
+7. **Dimensionality Reduction**:
    - **LSA (TruncatedSVD)**
    - **CNN**
    - **PCA**
-9. **Classification**:
+8. **Classification**:
    - **CNN (Logistic Regression)**
    - **PCA (Naive Bayes)**
-10. **Model Optimization**: Fine-tuning model hyperparameters for better performance.
-11. **Model Evaluation**: Assessing the performance of different models.
-12. **Model Deployment**: Preparing the final model for use in real-world applications.
+9. **Model Optimization**: Fine-tuning model hyperparameters for better performance.
+10. **Model Evaluation**: Assessing the performance of different models.
+11. **Model Deployment**: Preparing the final model for use in real-world applications.
 
 ## Results
 
