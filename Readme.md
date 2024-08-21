@@ -49,4 +49,21 @@ This project demonstrates the effectiveness of combining text preprocessing, vec
 
 ---
 
-Feel free to explore the code and contribute to the project!
+## Usage
+To use the code for a specific assignment, go to the corresponding directory in the repository and follow the instructions in the assignment's README file or code comments.
+
+## Contributing
+Contributions to this project are welcome. If you would like to contribute, please fork the repository, make changes in a separate branch, and submit a pull request detailing your changes.
+
+## License
+This project is copyrighted by the authors and cannot be used without the authors' prior permission.
+
+## Contact
+For further information, questions, or comments about this repository, please contact:
+
+xxxxx GitHub: https://github.com/xxxxx
+
+Feel free to reach out with any questions or contributions you might want to make to the project.
+
+Happy learning and best of luck with your assignments!
+
