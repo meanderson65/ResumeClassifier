@@ -1,4 +1,4 @@
-# Resume Categorization**
+# Resume Categorization
 
 This project focuses on developing a machine learning model to automatically categorize resumes into predefined job-related categories, such as Data Science, Software Development & QA, Sales & Marketing, based on the textual content within each resume. The primary objective is to streamline the recruitment process by automating resume screening, thereby reducing the time and effort required for initial candidate evaluation.
 
