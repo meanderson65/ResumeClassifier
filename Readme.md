@@ -6,6 +6,13 @@ This project focuses on developing a machine learning model to automatically cat
 
 The model analyzes text data, including job descriptions, skills, education, and experience, to assign each resume to the most relevant category. The process involves several steps, including data wrangling, text preprocessing, vectorization, dimensionality reduction, and classification. The final model aims to be robust and accurate, making it a valuable tool for recruiters and HR professionals.
 
+## <b>Author:</b> Intro to Machine Learning Team  
+<b>Date:</b> 21 Aug 2024  
+<b>Location:</b> UCSC Extention   
+<b>Program:</b> Artificial Intelligence Application Development  
+<b>Course:</b> Intro to Machine Learning  
+<b>Assignment:</b> Class Project
+
 ## Techniques Used
 
 ### Dimensionality Reduction
