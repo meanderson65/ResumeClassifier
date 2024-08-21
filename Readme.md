@@ -7,7 +7,7 @@ This project focuses on developing a machine learning model to automatically cat
 The model analyzes text data, including job descriptions, skills, education, and experience, to assign each resume to the most relevant category. The process involves several steps, including data wrangling, text preprocessing, vectorization, dimensionality reduction, and classification. The final model aims to be robust and accurate, making it a valuable tool for recruiters and HR professionals.
 
 ## <b>Author</b>  
-<b>Team</b> Intro to Machine Learning Team 
+<b>Team</b> Intro to Machine Learning Team   
 <b>Date:</b> 21 Aug 2024  
 <b>Location:</b> UCSC Extention   
 <b>Program:</b> Artificial Intelligence Application Development  
@@ -53,7 +53,11 @@ The results include a comparison of the performance of various models and techni
 
 ## Conclusion
 
-This project demonstrates the effectiveness of combining text preprocessing, vectorization, dimensionality reduction, and classification techniques to build an accurate and efficient resume categorization model. The final model can significantly aid in automating the resume screening process, making recruitment faster and more efficient.
+This project demonstrates the effectiveness of combining text preprocessing, vectorization, dimensionality reduction, and classification techniques to build an accurate and efficient resume categorization model. The final model significantly aids in automating the resume screening process, making recruitment faster and more efficient.
+
+The Convolutional Neural Network (CNN) demonstrated superior performance in terms of both efficiency and accuracy. The CNN achieved faster grid search times compared to Latent Semantic Analysis (LSA) and PCA with Naive Bayes, reflecting its capability to optimize hyperparameters more swiftly. The CNN's architecture, along with the pre-training of the autoencoder model used for dimensionality reduction, contributed to its computational efficiency, reducing the time and resources required for model optimization.
+
+In terms of performance, the CNN outperformed LSA across key metrics, achieving higher accuracy, precision, recall, and F1 Score, indicating its superior ability to classify resumes correctly. While PCA with Naive Bayes showed competitive performance, particularly in its second run, it did not surpass CNN in overall accuracy and efficiency. These results suggest that CNN offers a more effective and efficient solution for resume categorization, making it a valuable tool for automating recruitment processes.
 
 ---
 
